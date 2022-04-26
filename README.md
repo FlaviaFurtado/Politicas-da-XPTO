@@ -1,4 +1,4 @@
-![Capa do Projeto](https://www.canva.com/design/DAE_A0aWxbI/uzY7ejo-iWnDvYxRx9xSbw/view?utm_content=DAE_A0aWxbI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Capa do Projeto]![P](https://user-images.githubusercontent.com/102922885/165410124-3848630e-29af-4980-8b7a-a59d76e04023.png)
 
 # OBJETIVOS DA POLÍTICA DE SEGURANÇA 
 O objetivo da política de segurança em si é simples: Disponibilizar orientação e apoio da direção para a segurança da informação segundo os requisitos do negócio e com as regulamentações e leis relevantes vigentes. Por extensão, a política de segurança visa proteger e garantir os três princípios da segurança da informação:  
