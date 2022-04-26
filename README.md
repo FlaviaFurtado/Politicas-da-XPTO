@@ -15,7 +15,7 @@ Política de uso de impressoras
 
 Esta política estabelece os requisitos e instruções para o uso das impressoras de nossa instituição de ensino, as quais devem ser manuseadas com cautela para evitar desperdícios e outras ocasionalidades.  
 
-Esta norma foi aprovada pelo Comitê de Governança Digital em 29/08/2017. 
+Esta norma foi aprovada pelo Comitê de Governança Digital em 26/04/2022. 
 
 -Finalidade e/ou uso 
 
