@@ -86,3 +86,5 @@ f) Os funcionários deverão sempre considerar a conveniência e possibilidade d
 g) Todos os documentos confidenciais e informações restritas não mais utilizados devem ser colocados em triturador designado para destruição. Consulte a Política de Descarte Seguro de Informações e Sanitização de Mídias para obter informações adicionais relativas à destruição de dados.  
 
 h) Armários de arquivos e gavetas contendo informações restritas e confidenciais devem ser mantidos fechados e trancados quando desacompanhados e fora de uso. 
+
+https://www.cherokee.com.br/politica-de-mesa/
