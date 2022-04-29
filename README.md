@@ -60,6 +60,10 @@ f) Poderá existir uma franquia de impressão, que estabelece o quantitativo mí
 g) O serviço de impressão implementará um mecanismo de segurança, que habilita a impressão somente quando o usuário estiver perto da impressora.  
 
 h) Poderão ser implementados mecanismos para redução de impressão como limite de páginas de um documento, redirecionamento de documentos grandes para impressoras com custo menor, limite de cópias de documentos, tempo mínimo entre impressões, tempo de descarte e obrigatoriedade da autorização presencial para início da impressão. 
+
+https://www.academia.edu/36980100/ABNT_NBR_ISO_IEC_27001_Tecnologia_da_informação_Técnicas_de_segurança_Sistemas_de_gestão_de_segurança_da_informação_Requisitos
+https://www.estrategiaconcursos.com.br/blog/resumo-da-iso-27001/
+
 # POLÍTICA DE SEGURANÇA FÍSICA 
 Política de mesa limpa e tela limpa 
 
