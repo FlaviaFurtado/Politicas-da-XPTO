@@ -111,5 +111,3 @@ https://www.cherokee.com.br/politica-de-mesa/
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Agradecimentos
-O nosso projeto agradece a imensa colaboração do professor e mentor https://github.com/profdiegoaugusto , além de todos os outros colaboradores que nos ajudaram a implementar nossa ideia.
