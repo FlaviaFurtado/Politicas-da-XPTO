@@ -92,3 +92,24 @@ g) Todos os documentos confidenciais e informações restritas não mais utiliza
 h) Armários de arquivos e gavetas contendo informações restritas e confidenciais devem ser mantidos fechados e trancados quando desacompanhados e fora de uso. 
 
 https://www.cherokee.com.br/politica-de-mesa/
+
+
+## Autores
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+   <tr>
+     <td align="center"><a href="https://github.com/raylabernardino"><img src="https://avatars.githubusercontent.com/u/103153962?v=4" width="100px;" alt=""/><br /><sub><b>Emanuel Neves de Oliveira </b></sub></td>
+     <td align="center"><a href="https://github.com/luizfelipe9"><img src="https://avatars.githubusercontent.com/u/103151857?v=4" width="100px;" alt=""/><br /><sub><b>Rayla Silva Bernardino</b></sub></td>
+     <td align="center"><a href="https://github.com/Heitordays"><img src="https://avatars.githubusercontent.com/u/103151921?v=4" width="100px;" alt=""/><br /><sub><b>Heitor Dias Guimarães</b></sub></td>
+     <td align="center"><a href="https://github.com/FlaviaFurtado"><img src="https://avatars.githubusercontent.com/u/102922885?v=4" width="100px;" alt=""/><br /><sub><b>Carolina Flávia Furtado</b></sub></td>
+   </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Agradecimentos
+O nosso projeto agradece a imensa colaboração do professor e mentor https://github.com/profdiegoaugusto , além de todos os outros colaboradores que nos ajudaram a implementar nossa ideia.
