@@ -101,7 +101,7 @@ https://www.cherokee.com.br/politica-de-mesa/
 <table>
    <tr>
      <td align="center"><a href="https://github.com/raylabernardino"><img src="https://avatars.githubusercontent.com/u/103151857?v=4" width="100px;" alt=""/><br /><sub><b>Rayla bernardino</b></sub></td>
-     <td align="center"><a href="https://github.com/luizfelipe9"><img src="https://avatars.githubusercontent.com/u/102922885?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Felipe</b></sub></td>
+     <td align="center"><a href="https://github.com/luizfelipe9"><img src="https://avatars.githubusercontent.com/u/89615294?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Felipe</b></sub></td>
      <td align="center"><a href="https://github.com/Heitordays"><img src="https://avatars.githubusercontent.com/u/103151921?v=4" width="100px;" alt=""/><br /><sub><b>Heitor Dias Guimarães</b></sub></td>
      <td align="center"><a href="https://github.com/FlaviaFurtado"><img src="https://avatars.githubusercontent.com/u/102922885?v=4" width="100px;" alt=""/><br /><sub><b>Carolina Flávia Furtado</b></sub></td>
    </tr>
